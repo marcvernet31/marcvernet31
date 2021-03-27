@@ -7,5 +7,5 @@ Hey, I'm Marc! I’m a Data Science and Engineer, always looking for opportuniti
 - 🎓 Currently studying at [UPC](https://www.upc.edu/ca)
 - 🔭 Skills: Python, R, C++, SQL, Distributed systems and Databases
 
-Reach me at [linkedin](https://www.linkedin.com/in/marc-vernet/)
+Reach me at [LinkedIn](https://www.linkedin.com/in/marc-vernet/)!
 
